@@ -584,14 +584,19 @@ input[type=button] {
 
   header figure {
     width: 30%;
+    
+    padding-left: 40px;
   }
 
   header nav {
     width: 20%;
+    
   }
 
   header nav ul {
     justify-content: space-between;
+    
+    padding-right: 30px;
   }
 
   .header-divider {
